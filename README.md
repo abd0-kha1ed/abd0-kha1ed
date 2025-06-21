@@ -37,7 +37,7 @@ This is my personal portfolio built entirely using **Flutter Web**. It showcases
 
 ## 📸 Preview
 
-![Portfolio Screenshot](screenshots/preview.png)
+![Portfolio Screenshot](preview.png)
 
 > _This is a preview of the main homepage of the portfolio._  
 > _More GIFs or pages can be added later._
