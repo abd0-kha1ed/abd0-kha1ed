@@ -20,7 +20,7 @@
 This is my personal portfolio built entirely using **Flutter Web**. It showcases my skills, projects, and contact info in an adaptive, animated, and professional interface.
 
 ### 🌐 Live Demo  
-🚧 Coming Soon
+🖥️ [Click here to view the portfolio](https://abd0-kha1ed.github.io/portfolio_web/)
 
 ---
 
@@ -37,8 +37,10 @@ This is my personal portfolio built entirely using **Flutter Web**. It showcases
 
 ## 📸 Preview
 
-> _You can add a screenshot or animated GIF of your homepage here later._  
-> Example: `![Portfolio Screenshot](assets/preview.png)`
+![Portfolio Screenshot](screenshots/preview.png)
+
+> _This is a preview of the main homepage of the portfolio._  
+> _More GIFs or pages can be added later._
 
 ---
 
@@ -48,7 +50,7 @@ This is my personal portfolio built entirely using **Flutter Web**. It showcases
 - **Architecture:** Clean Architecture + MVVM
 - **State Management:** Cubit (Bloc)
 - **Styling:** Custom `app_colors.dart` and `text_styles.dart`
-- **Deployment:** *(Coming Soon)*
+- **Deployment:** GitHub Pages
 
 ---
 
@@ -59,15 +61,17 @@ This is my personal portfolio built entirely using **Flutter Web**. It showcases
 | 🛰️ **Path Tracker** | Real-time path tracking with location integration and Flutter Maps | [View Repo](https://github.com/abd0-kha1ed/path_tracker) |
 | 💊 **Pharmacy App** | A sleek UI-based pharmacy UI/UX system with categorized product display | [View Repo](https://github.com/abd0-kha1ed/pharmacy) |
 | 🕒 **Attendance System** | Full attendance management system with real-time records | [View Repo](https://github.com/abd0-kha1ed/attendance-system) |
+| 📚 **LMS App** | Learning Management System with Firebase Auth and real-time features for teachers, assistants & students | [View Repo](https://github.com/abd0-kha1ed/lms) |
 
 ---
 
 ## 🛠️ Run Locally
 
-To run this project locally:
+To run this project on Flutter Web:
 
 ```bash
 git clone https://github.com/abd0-kha1ed/portfolio_web.git
 cd portfolio_web
 flutter pub get
+flutter config --enable-web
 flutter run -d chrome
