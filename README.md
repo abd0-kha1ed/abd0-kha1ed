@@ -66,4 +66,4 @@
 ---
 
 ### 🎓 Education
-- **B.Sc. in Navigation Science and Space Technology** — Beni-Suef University *(Expected Graduation: 2026 | GPA: 3.7 / 4.0)*
+- **B.Sc. in Navigation Science and Space Technology** — Beni-Suef University *(Graduated: 2026 | GPA: 3.7 / 4.0)*
